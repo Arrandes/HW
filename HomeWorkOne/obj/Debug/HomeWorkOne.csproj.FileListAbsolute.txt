@@ -1,0 +1,7 @@
+F:\Documents\Programming\C#\C# - уровень 1\Практика\1 урок\HW\HomeWorkOne\bin\Debug\HomeWorkOne.exe.config
+F:\Documents\Programming\C#\C# - уровень 1\Практика\1 урок\HW\HomeWorkOne\bin\Debug\HomeWorkOne.exe
+F:\Documents\Programming\C#\C# - уровень 1\Практика\1 урок\HW\HomeWorkOne\bin\Debug\HomeWorkOne.pdb
+F:\Documents\Programming\C#\C# - уровень 1\Практика\1 урок\HW\HomeWorkOne\obj\Debug\HomeWorkOne.csprojAssemblyReference.cache
+F:\Documents\Programming\C#\C# - уровень 1\Практика\1 урок\HW\HomeWorkOne\obj\Debug\HomeWorkOne.csproj.CoreCompileInputs.cache
+F:\Documents\Programming\C#\C# - уровень 1\Практика\1 урок\HW\HomeWorkOne\obj\Debug\HomeWorkOne.exe
+F:\Documents\Programming\C#\C# - уровень 1\Практика\1 урок\HW\HomeWorkOne\obj\Debug\HomeWorkOne.pdb
