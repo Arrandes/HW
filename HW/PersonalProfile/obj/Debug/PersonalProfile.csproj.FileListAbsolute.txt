@@ -1,0 +1,7 @@
+F:\Documents\Programming\C#\Главные\GB\CS-1\HW\HW\PersonalProfile\bin\Debug\PersonalProfile.exe.config
+F:\Documents\Programming\C#\Главные\GB\CS-1\HW\HW\PersonalProfile\bin\Debug\PersonalProfile.exe
+F:\Documents\Programming\C#\Главные\GB\CS-1\HW\HW\PersonalProfile\bin\Debug\PersonalProfile.pdb
+F:\Documents\Programming\C#\Главные\GB\CS-1\HW\HW\PersonalProfile\obj\Debug\PersonalProfile.csprojAssemblyReference.cache
+F:\Documents\Programming\C#\Главные\GB\CS-1\HW\HW\PersonalProfile\obj\Debug\PersonalProfile.csproj.CoreCompileInputs.cache
+F:\Documents\Programming\C#\Главные\GB\CS-1\HW\HW\PersonalProfile\obj\Debug\PersonalProfile.exe
+F:\Documents\Programming\C#\Главные\GB\CS-1\HW\HW\PersonalProfile\obj\Debug\PersonalProfile.pdb
